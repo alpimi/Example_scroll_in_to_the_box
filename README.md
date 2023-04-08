@@ -1,6 +1,7 @@
 ## Install project
-### npm install 
-#### Dependencies
+### `npm install`
+
+## Dependencies
 Vite_React-TS + Redux-Toolkit + Tailwinds+React_Router_Dom + Material_UI-Icons
 
 ## External projects
